@@ -20,7 +20,7 @@ body{
   #present{
     width: 300px;
     height: 220px;
-    position: relative;
+    position: fixed;
     cursor: pointer;
     opacity: 0;
   }
